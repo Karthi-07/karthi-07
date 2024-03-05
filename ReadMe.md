@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>🌱 I’m currently learning React JS,Node JS<br>👯 I’m looking to collaborate on MERN stack projects<br>🤝 I’m looking for help with Modern web tech
+🔭 I’m currently working on Backend Development<br>🌱 I’m currently learning Core Java,Spring boot<br>👯 I’m looking to collaborate on Java backend projects<br>
 
 
 ## 🌐 Socials:
